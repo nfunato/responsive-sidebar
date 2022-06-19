@@ -2,7 +2,11 @@
   "name": "chakra-ui-responsive-sidebar",
   "version": "1.0.0",
   "description": "Responsive sidebar example with Chakra-UI",
-  "keywords": ["chackra-ui", "responsive", "sidebar"],
+  "keywords": [
+    "chackra-ui",
+    "responsive",
+    "sidebar"
+  ],
   "main": "src/index.tsx",
   "dependencies": {
     "@chakra-ui/icons": "1.0.5",
@@ -13,7 +17,7 @@
     "framer-motion": "3.3.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
-    "react-scripts": "4.0.0"
+    "react-scripts": "5.0.1"
   },
   "devDependencies": {
     "@types/react": "17.0.0",
@@ -26,5 +30,10 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
